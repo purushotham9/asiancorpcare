@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">asiancorpcare</string>
+    <string name="email">Email</string>
+    <string name="pass">Password</string>
+    <string name="login">Login</string>
+    <string name="image">Thumbnail</string>
+
+    <string name="emp_id">Employee Id</string>
+    <string name="start_km">Start Kilometers</string>
+    <string name="upload_st_km">Image Upload Start Km</string>
+    <string name="end_km">End Kilometers</string>
+    <string name="upload_end_km">Image Upload End Km</string>
+    <string name="fuel_liters">Fuel Liters</string>
+    <string name="expenses">Expenses</string>
+    <string name="submit">Submit</string>
+
+</resources>
